@@ -1,0 +1,8 @@
+{
+  "name": "fcc-certificate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/patrickgoeler/fcc-certificate.git",
+  "author": "patrickgoeler <patrickvongoeler@gmail.com>",
+  "license": "MIT"
+}
